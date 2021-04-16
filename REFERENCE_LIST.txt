@@ -1,0 +1,10 @@
+Things that I referenced to from the Internet:
+
+Implementation of Dijkstra's Algorithm in Python:
+https://www.youtube.com/watch?v=IG1QioWSXRI
+
+Roboto Font:
+https://fonts.google.com/specimen/Roboto#glyphs
+
+Object-oriented Tkinter Programming 
+https://pythonprogramming.net/object-oriented-programming-crash-course-tkinter/
